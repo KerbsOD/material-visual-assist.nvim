@@ -8,7 +8,7 @@ local colors = {
 		gray = "#cac8cb",
 		black = "#1e1e1e",
 		red = "#ff5242",
-		green = "#bbb687",
+		green = "#8ec07c",
 		yellow = "#f9cb5e",
 		blue = "#82AAFF",
 		paleblue = "#83a598",
@@ -61,13 +61,13 @@ if vim.g.material_style == "darker" then
 	colors.editor.bg_alt = "#1A1A1A"
 	colors.editor.fg = "#B0BEC5"
 	colors.editor.fg_dark = "#8C8B8B"
-	colors.editor.selection = "#404040"
+	colors.editor.selection = "#2A2A2A"
 	colors.editor.contrast = "#1A1A1A"
 	colors.editor.active = "#323232"
 	colors.editor.border = "#343434"
 	colors.editor.highlight = "#3F3F3F"
 	colors.editor.disabled = "#474747"
-	colors.editor.accent = colors.main.yellow
+	colors.editor.accent = colors.main.blue
 elseif vim.g.material_style == "lighter" then
 	-- Lighter theme style
 
