@@ -45,7 +45,7 @@ M.main_highlights.syntax = function()
 		Label = { fg = s.keyword }, -- case, default, etc.
 		Operator = { fg = s.operator },
 		Exception = { fg = m.red },
-		Macro = { fg = m.cyan },
+		Macro = { fg = m.red },
 		Include = { link = "Macro" },
 		-- Define         = { link = "Macro" },
 		-- PreProc        = { link = "Macro" },
