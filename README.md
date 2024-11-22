@@ -1,4 +1,9 @@
- <div align="center">
+## Fork from Material Neovim to emulate TheCherno's visual assist color shcheme 
+![Showcase](assets/Showcase.png)
+
+---
+
+<div align="center">
 <p align="center">
   <img width="302" height="302" src="https://user-images.githubusercontent.com/76592799/150905447-8ae16047-4646-4f54-b122-a5f85ef59782.png">
 </p>
