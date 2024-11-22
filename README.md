@@ -1,4 +1,4 @@
-## Fork from Material Neovim to emulate TheCherno's visual assist color shcheme 
+## Fork from Material Neovim to emulate TheCherno's visual assist color scheme 
 ![Showcase](assets/Showcase.png)
 
 ---
