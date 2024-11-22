@@ -305,7 +305,7 @@ M.main_highlights.editor = function()
 		TabLineFill = { fg = e.fg },
 		TabLineSel = { fg = e.bg, bg = e.accent },
 		TabLine = { fg = e.fg },
-		Title = { fg = m.red, bold = true },
+		Title = { fg = m.cyan, bold = true },
 		WarningMsg = { fg = m.yellow },
 		Whitespace = { fg = e.disabled },
 		CursorLine = { bg = b.cursor_line },
