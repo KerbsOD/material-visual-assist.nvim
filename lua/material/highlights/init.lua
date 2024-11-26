@@ -134,7 +134,7 @@ M.main_highlights.treesitter = function()
 
 			["@keyword.directive"] = { fg = m.cyan },
 			["@macro"] = { fg = m.cyan },
-			["@module"] = { fg = m.yellow },
+			["@module"] = { fg = m.blue },
 
 			["@string"] = { link = "String" },
 			["@string.escape"] = { fg = e.fg_dark },
