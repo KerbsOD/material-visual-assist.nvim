@@ -180,11 +180,11 @@ end
 colors.syntax.variable = colors.main.white
 colors.syntax.field = colors.main.green
 colors.syntax.keyword = colors.main.red
-colors.syntax.value = colors.main.yellow
+colors.syntax.value = colors.main.orange
 colors.syntax.operator = colors.main.fg
-colors.syntax.fn = colors.main.orange
+colors.syntax.fn = colors.main.yellow
 colors.syntax.parameter = colors.main.green
-colors.syntax.string = colors.main.yellow
+colors.syntax.string = colors.main.green
 colors.syntax.type = colors.main.yellow
 
 ---git colors
