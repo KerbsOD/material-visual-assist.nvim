@@ -184,7 +184,7 @@ colors.syntax.value = colors.main.yellow
 colors.syntax.operator = colors.main.fg
 colors.syntax.fn = colors.main.orange
 colors.syntax.parameter = colors.main.green
-colors.syntax.string = colors.main.gray
+colors.syntax.string = colors.main.yellow
 colors.syntax.type = colors.main.yellow
 
 ---git colors
