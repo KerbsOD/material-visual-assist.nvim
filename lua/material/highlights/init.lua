@@ -93,8 +93,7 @@ M.main_highlights.treesitter = function()
 			["@comment.note"] = { fg = s.comments, bg = l.info },
 
 			["@type"] = { fg = m.yellow },
-			["@type.builtin"] = { fg = s.red },
-			["@type.builtin.cpp"] = { fg = s.red },
+			["@type.builtin"] = { fg = m.red },
 			["@type.definition"] = { fg = m.yellow },
 			["@lsp.typemod.type.definition.go"] = { fg = m.yellow },
 			["@type.qualifier"] = { fg = m.cyan },
